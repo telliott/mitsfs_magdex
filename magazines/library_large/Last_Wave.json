@@ -1,0 +1,33 @@
+{
+   "alternate" : [],
+   "grid" : "ISSUES",
+   "name" : "Last Wave",
+   "years" : {
+      "1983" : [
+         {
+            "issue" : "1",
+            "status" : "MISSING"
+         }
+      ],
+      "1984" : [
+         {
+            "issue" : "2",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "3",
+            "status" : "MISSING"
+         },
+         {
+            "issue" : "4",
+            "status" : "OWNED"
+         }
+      ],
+      "1986" : [
+         {
+            "issue" : "5 ",
+            "status" : "OWNED"
+         }
+      ]
+   }
+}
