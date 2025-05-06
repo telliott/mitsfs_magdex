@@ -11,7 +11,6 @@ SECTIONS = {"library_front": "The Big Guns",
 			"library_xl": "Extra-Large Magazines",
 			"annex": "Annex",
 			"annex_foreign": "Annex Foreign Magazines",
-			"library_foreign": "Foreign Magazines",
 			"one_offs.json": "One-Off Issues of Larger Publications (in Annex)"
 			}
 			

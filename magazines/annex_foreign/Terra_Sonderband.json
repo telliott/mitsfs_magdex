@@ -1,0 +1,519 @@
+{
+   "alternate" : [],
+   "box" : "",
+   "grid" : "ISSUES",
+   "name" : "Terra Sonderband",
+   "years" : {
+      "1958" : [
+         {
+            "issue" : "1",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "2",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "3",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "4",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "5",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "6",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "7",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "8",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "9",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "10",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1959" : [
+         {
+            "issue" : "11",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "12",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "13",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "14",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "15",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "16",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "17",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "18",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "19",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "20",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "21",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "22",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "23",
+            "status" : "BOUND",
+            "volume" : ""
+         }
+      ],
+      "1960" : [
+         {
+            "issue" : "24",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "25",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "26",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "27",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "28",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "29",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "30",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "31",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "32",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "33",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "34",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "35",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "36",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "37",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1961" : [
+         {
+            "issue" : "38",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "39",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "40",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "41",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "42",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "43",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "44",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "45",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "46",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "47",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "48",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "49",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1962" : [
+         {
+            "issue" : "50",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "51",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "52",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "53",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "54",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "55",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "56",
+            "status" : "BOUND",
+            "volume" : ""
+         },
+         {
+            "issue" : "57",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "58",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "59",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "60",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "61",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "62",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "63",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "64",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1963" : [
+         {
+            "issue" : "65",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "66",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "67",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "68",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "69",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "70",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "71",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "72",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "73",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "74",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "75",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "76",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "77",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "78",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1964" : [
+         {
+            "issue" : "79",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "80",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "81",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "82",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "83",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "84",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "85",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "86",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "87",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "88",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "89",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "90",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "91",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1965" : [
+         {
+            "issue" : "92",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "93",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "94",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "95",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "96",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "97",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "98",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "99",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ]
+   }
+}
