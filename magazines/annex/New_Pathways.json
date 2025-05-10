@@ -1,145 +1,132 @@
 {
    "alternate" : [],
-   "box" : "5",
-   "grid" : "ISSUES",
-   "name" : "Utopia Magazin",
-   "note": "Issues 1 and 2 are titled Utopia Sonderband, but not the same as the series of that name",
+   "box" : "22",
+   "grid" : "MONTH",
+   "name" : "New Pathways",
    "years" : {
-      "1955" : [
+      "1986" : [
          {
+            "date" : "Mar",
             "issue" : "1",
             "status" : "MISSING",
             "volume" : ""
          },
          {
+            "date" : "May",
             "issue" : "2",
             "status" : "MISSING",
             "volume" : ""
          },
          {
+            "date" : "Jul",
             "issue" : "3",
             "status" : "MISSING",
             "volume" : ""
          },
          {
+            "date" : "Sep",
             "issue" : "4",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
          },
          {
+            "date" : "Nov",
             "issue" : "5",
-            "status" : "MISSING",
-            "volume" : ""
-         },
-         {
-            "issue" : "6",
             "status" : "MISSING",
             "volume" : ""
          }
       ],
-      "1956" : [
+      "1987" : [
          {
+            "date" : "Jan-Feb",
+            "issue" : "6",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "date" : "Apr-May",
             "issue" : "7",
             "status" : "OWNED",
             "volume" : ""
          },
          {
+            "date" : "Aug",
             "issue" : "8",
             "status" : "MISSING",
             "volume" : ""
          },
          {
+            "date" : "Nov",
             "issue" : "9",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
-         },
+         }
+      ],
+      "1988" : [
          {
+            "date" : "Mar",
             "issue" : "10",
-            "status" : "OWNED",
-            "volume" : ""
-         },
-         {
-            "issue" : "11",
-            "status" : "OWNED",
-            "volume" : ""
-         },
-         {
-            "issue" : "12",
-            "status" : "OWNED",
-            "volume" : ""
-         },
-         {
-            "issue" : "13",
             "status" : "MISSING",
             "volume" : ""
          },
          {
+            "date" : "Jul",
+            "issue" : "11",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Oct",
+            "issue" : "12",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "date" : "Dec",
+            "issue" : "13",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1989" : [
+         {
+            "date" : "May",
             "issue" : "14",
             "status" : "MISSING",
             "volume" : ""
          },
          {
+            "date" : "Sep",
             "issue" : "15",
             "status" : "MISSING",
             "volume" : ""
-         },
+         }
+      ],
+      "1990" : [
          {
+            "date" : "Jul",
             "issue" : "16",
             "status" : "MISSING",
             "volume" : ""
          },
          {
+            "date" : "Sep",
             "issue" : "17",
             "status" : "MISSING",
             "volume" : ""
          },
          {
+            "date" : "Nov",
             "issue" : "18",
             "status" : "MISSING",
             "volume" : ""
          }
       ],
-      "1958" : [
+      "1991" : [
          {
+            "date" : "Jan",
             "issue" : "19",
             "status" : "MISSING",
-            "volume" : ""
-         },
-         {
-            "issue" : "20",
-            "status" : "MISSING",
-            "volume" : ""
-         },
-         {
-            "issue" : "21",
-            "status" : "MISSING",
-            "volume" : ""
-         },
-         {
-            "issue" : "22",
-            "status" : "OWNED",
-            "volume" : ""
-         },
-         {
-            "issue" : "23",
-            "status" : "MISSING",
-            "volume" : ""
-         },
-         {
-            "issue" : "24",
-            "status" : "MISSING",
-            "volume" : ""
-         }
-      ],
-      "1959" : [
-         {
-            "issue" : "25",
-            "status" : "OWNED",
-            "volume" : ""
-         },
-         {
-            "issue" : "26",
-            "status" : "OWNED",
             "volume" : ""
          }
       ]

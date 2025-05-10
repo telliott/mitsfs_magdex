@@ -1,6 +1,6 @@
 {
    "alternate" : [],
-   "box" : "18",
+   "box" : "22",
    "grid" : "ISSUES",
    "name" : "Pulphouse",
    "years" : {
@@ -47,46 +47,41 @@
          },
          {
             "issue" : "9",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
          }
       ],
       "1992" : [
          {
             "issue" : "10",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
          },
          {
             "issue" : "11",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
          },
          {
-            "issue" : "12",
-            "status" : "MISSING",
-            "volume" : ""
-         },
-         {
-            "issue" : "13",
-            "status" : "MISSING",
+            "issue" : "12/13",
+            "status" : "OWNED",
             "volume" : ""
          },
          {
             "issue" : "14",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
          }
       ],
       "1993" : [
          {
             "issue" : "15",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
          },
          {
             "issue" : "16",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
          }
       ],

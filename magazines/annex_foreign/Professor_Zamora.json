@@ -1,249 +1,248 @@
 {
    "alternate" : [],
-   "box" : "14",
+   "box" : "19",
    "grid" : "ISSUES",
-   "name" : "Terra Sonderband",
+   "name" : "Professor Zamora",
+   "note" : "Goes for 1300 issues and still being published",
    "years" : {
-      "1958" : [
+      "1974" : [
          {
             "issue" : "1",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "2",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "3",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "4",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "5",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "6",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "7",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "8",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "9",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "10",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
-         }
-      ],
-      "1959" : [
+         },
          {
             "issue" : "11",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "12",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "13",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "14",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
-         },
+         }
+      ],
+      "1975" : [
          {
             "issue" : "15",
-            "status" : "BOUND",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "16",
-            "status" : "BOUND",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "17",
-            "status" : "BOUND",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "18",
-            "status" : "BOUND",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "19",
-            "status" : "BOUND",
+            "status" : "OWNED",
             "volume" : ""
          },
          {
             "issue" : "20",
-            "status" : "BOUND",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "21",
-            "status" : "BOUND",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "22",
-            "status" : "BOUND",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "23",
-            "status" : "BOUND",
+            "status" : "MISSING",
             "volume" : ""
-         }
-      ],
-      "1960" : [
+         },
          {
             "issue" : "24",
-            "status" : "BOUND",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "25",
-            "status" : "BOUND",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "26",
-            "status" : "BOUND",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "27",
-            "status" : "BOUND",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "28",
-            "status" : "BOUND",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "29",
-            "status" : "BOUND",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "30",
-            "status" : "BOUND",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "31",
-            "status" : "BOUND",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "32",
-            "status" : "BOUND",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "33",
-            "status" : "BOUND",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "34",
-            "status" : "BOUND",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "35",
-            "status" : "BOUND",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "36",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "37",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
-         }
-      ],
-      "1961" : [
+         },
          {
             "issue" : "38",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "39",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "40",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
-         },
+         }
+      ],
+      "1976" : [
          {
             "issue" : "41",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "42",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "43",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "44",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "45",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "46",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "47",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
@@ -253,59 +252,57 @@
          },
          {
             "issue" : "49",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
-         }
-      ],
-      "1962" : [
+         },
          {
             "issue" : "50",
-            "status" : "BOUND",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "51",
-            "status" : "BOUND",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "52",
-            "status" : "BOUND",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "53",
-            "status" : "BOUND",
+            "status" : "OWNED",
             "volume" : ""
          },
          {
             "issue" : "54",
-            "status" : "BOUND",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "55",
-            "status" : "BOUND",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "56",
-            "status" : "BOUND",
+            "status" : "OWNED",
             "volume" : ""
          },
          {
             "issue" : "57",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "58",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "59",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
@@ -315,203 +312,206 @@
          },
          {
             "issue" : "61",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "62",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "63",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "64",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
-         }
-      ],
-      "1963" : [
+         },
          {
             "issue" : "65",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "66",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
-         },
+         }
+      ],
+      "1977" : [
          {
             "issue" : "67",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "68",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "69",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "70",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "71",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "72",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "73",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "74",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "75",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "76",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "77",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "78",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
-         }
-      ],
-      "1964" : [
+         },
          {
             "issue" : "79",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "80",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "81",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "82",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "83",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "84",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "85",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "86",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "87",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "88",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "89",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "90",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "91",
-            "status" : "OWNED",
-            "volume" : ""
-         }
-      ],
-      "1965" : [
-         {
-            "issue" : "92",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
+            "issue" : "92",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1978" : [
+         {
             "issue" : "93",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "94",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "95",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "96",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "97",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "98",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "99",
-            "status" : "OWNED",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "100",
+            "status" : "MISSING",
             "volume" : ""
          }
       ]

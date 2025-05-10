@@ -6,7 +6,7 @@
       "1978" : [
          {
             "issue" : "1",
-            "status" : "MISSING"
+            "status" : "OWNED"
          }
       ],
       "1979" : [
@@ -52,27 +52,27 @@
       "1983" : [
          {
             "issue" : "10",
-            "status" : "MISSING"
+            "status" : "OWNED"
          },
          {
             "issue" : "11",
-            "status" : "MISSING"
+            "status" : "OWNED"
          }
       ],
       "1984" : [
          {
             "issue" : "12",
-            "status" : "MISSING"
+            "status" : "OWNED"
          }
       ],
       "1985" : [
          {
             "issue" : "13",
-            "status" : "MISSING"
+            "status" : "OWNED"
          },
          {
             "issue" : "14",
-            "status" : "MISSING"
+            "status" : "OWNED"
          }
       ],
       "1986" : [

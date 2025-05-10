@@ -6,17 +6,17 @@
       "1983" : [
          {
             "issue" : "1",
-            "status" : "MISSING"
+            "status" : "OWNED"
          }
       ],
       "1984" : [
          {
             "issue" : "2",
-            "status" : "MISSING"
+            "status" : "OWNED"
          },
          {
             "issue" : "3",
-            "status" : "MISSING"
+            "status" : "OWNED"
          },
          {
             "issue" : "4",

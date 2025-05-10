@@ -1,25 +1,27 @@
 {
-   "alternate" : ["Luna-Weltall"],
-   "box" : "14",
+   "alternate" : [],
+   "box" : "17",
    "grid" : "ISSUES",
-   "name" : "Luna Utopia",
+   "name" : "Mark Powers",
    "years" : {
-      "1956" : [
+      "1962" : [
          {
             "issue" : "1",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
          },
          {
             "issue" : "2",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
          },
          {
             "issue" : "3",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
-         },
+         }
+      ],
+      "1963" : [
          {
             "issue" : "4",
             "status" : "OWNED",
@@ -27,7 +29,7 @@
          },
          {
             "issue" : "5",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
          },
          {
@@ -37,24 +39,22 @@
          },
          {
             "issue" : "7",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "8",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
          },
          {
             "issue" : "9",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
-         }
-      ],
-      "1957" : [
+         },
          {
             "issue" : "10",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
@@ -109,14 +109,12 @@
          },
          {
             "issue" : "21",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
-         }
-      ],
-      "1958" : [
+         },
          {
             "issue" : "22",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
          },
          {
@@ -131,7 +129,7 @@
          },
          {
             "issue" : "25",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
          },
          {
@@ -141,7 +139,7 @@
          },
          {
             "issue" : "27",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
          },
          {
@@ -151,59 +149,59 @@
          },
          {
             "issue" : "29",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
          },
          {
             "issue" : "30",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
-         },
+         }
+      ],
+      "1964" : [
          {
             "issue" : "31",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
          },
          {
             "issue" : "32",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
          },
          {
             "issue" : "33",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
-         }
-      ],
-      "1959" : [
+         },
          {
             "issue" : "34",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
          },
          {
             "issue" : "35",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
          },
          {
             "issue" : "36",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
          },
          {
             "issue" : "37",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
          },
          {
             "issue" : "38",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
          },
          {
             "issue" : "39",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
          },
          {
@@ -213,7 +211,7 @@
          },
          {
             "issue" : "41",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
          },
          {
@@ -223,21 +221,19 @@
          },
          {
             "issue" : "43",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "44",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "45",
             "status" : "MISSING",
             "volume" : ""
-         }
-      ],
-      "1960" : [
+         },
          {
             "issue" : "46",
             "status" : "MISSING",
@@ -251,51 +247,6 @@
          {
             "issue" : "48",
             "status" : "OWNED",
-            "volume" : ""
-         },
-         {
-            "issue" : "49",
-            "status" : "OWNED",
-            "volume" : ""
-         },
-         {
-            "issue" : "50",
-            "status" : "MISSING",
-            "volume" : ""
-         },
-         {
-            "issue" : "51",
-            "status" : "MISSING",
-            "volume" : ""
-         },
-         {
-            "issue" : "52",
-            "status" : "MISSING",
-            "volume" : ""
-         },
-         {
-            "issue" : "53",
-            "status" : "MISSING",
-            "volume" : ""
-         },
-         {
-            "issue" : "54",
-            "status" : "MISSING",
-            "volume" : ""
-         },
-         {
-            "issue" : "55",
-            "status" : "MISSING",
-            "volume" : ""
-         },
-         {
-            "issue" : "56",
-            "status" : "MISSING",
-            "volume" : ""
-         },
-         {
-            "issue" : "57",
-            "status" : "MISSING",
             "volume" : ""
          }
       ]

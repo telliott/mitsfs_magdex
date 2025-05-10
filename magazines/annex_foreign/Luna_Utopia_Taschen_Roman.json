@@ -1,13 +1,13 @@
 {
    "alternate" : [],
-   "box" : "1",
+   "box" : "14",
    "grid" : "ISSUES",
-   "name" : "Abenteuer im Weltenraum",
+   "name" : "Luna Utopia Taschen Roman",
    "years" : {
-      "1958" : [
+      "1957" : [
          {
             "issue" : "1",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
@@ -17,86 +17,61 @@
          },
          {
             "issue" : "3",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "4",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
-         },
+         }
+      ],
+      "1958" : [
          {
             "issue" : "5",
-            "status" : "BOUND",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "6",
-            "status" : "BOUND",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "7",
-            "status" : "BOUND",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "8",
-            "status" : "BOUND",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "9",
-            "status" : "BOUND",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "10",
-            "status" : "BOUND",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "11",
-            "status" : "BOUND",
+            "status" : "OWNED",
             "volume" : ""
          },
          {
             "issue" : "12",
-            "status" : "BOUND",
-            "volume" : ""
-         },
-         {
-            "issue" : "14",
-            "status" : "BOUND",
+            "status" : "MISSING",
             "volume" : ""
          }
       ],
       "1959" : [
          {
-            "issue" : "15",
-            "status" : "BOUND",
-            "volume" : ""
-         },
-         {
-            "issue" : "16",
-            "status" : "BOUND",
-            "volume" : ""
-         },
-         {
-            "issue" : "17",
-            "status" : "BOUND",
-            "volume" : ""
-         }
-      ],
-      "1960" : [
-         {
-            "issue" : "18",
-            "status" : "BOUND",
-            "volume" : ""
-         },
-         {
-            "issue" : "19",
-            "status" : "BOUND",
+            "issue" : "13",
+            "status" : "MISSING",
             "volume" : ""
          }
       ]

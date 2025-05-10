@@ -1,14 +1,13 @@
 {
    "alternate" : [],
-   "box" : "5",
+   "box" : "22",
    "grid" : "ISSUES",
-   "name" : "Utopia Magazin",
-   "note": "Issues 1 and 2 are titled Utopia Sonderband, but not the same as the series of that name",
+   "name" : "Moonbroth",
    "years" : {
-      "1955" : [
+      "1971" : [
          {
             "issue" : "1",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
          },
          {
@@ -25,7 +24,9 @@
             "issue" : "4",
             "status" : "MISSING",
             "volume" : ""
-         },
+         }
+      ],
+      "1972" : [
          {
             "issue" : "5",
             "status" : "MISSING",
@@ -35,44 +36,46 @@
             "issue" : "6",
             "status" : "MISSING",
             "volume" : ""
-         }
-      ],
-      "1956" : [
+         },
          {
             "issue" : "7",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "8",
             "status" : "MISSING",
             "volume" : ""
-         },
+         }
+      ],
+      "1973" : [
          {
             "issue" : "9",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "10",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "11",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "12",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "13",
             "status" : "MISSING",
             "volume" : ""
-         },
+         }
+      ],
+      "1974" : [
          {
             "issue" : "14",
             "status" : "MISSING",
@@ -97,14 +100,14 @@
             "issue" : "18",
             "status" : "MISSING",
             "volume" : ""
-         }
-      ],
-      "1958" : [
+         },
          {
             "issue" : "19",
             "status" : "MISSING",
             "volume" : ""
-         },
+         }
+      ],
+      "1975" : [
          {
             "issue" : "20",
             "status" : "MISSING",
@@ -114,10 +117,12 @@
             "issue" : "21",
             "status" : "MISSING",
             "volume" : ""
-         },
+         }
+      ],
+      "1976" : [
          {
             "issue" : "22",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
@@ -129,17 +134,32 @@
             "issue" : "24",
             "status" : "MISSING",
             "volume" : ""
-         }
-      ],
-      "1959" : [
+         },
          {
             "issue" : "25",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "26",
-            "status" : "OWNED",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "27",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "28",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1977" : [
+         {
+            "issue" : "29/30 ",
+            "status" : "MISSING",
             "volume" : ""
          }
       ]

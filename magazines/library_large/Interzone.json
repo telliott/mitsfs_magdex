@@ -699,7 +699,7 @@
          {
             "date" : "Jun",
             "issue" : "132",
-            "status" : "MISSING"
+            "status" : "OWNED"
          },
          {
             "date" : "Jul",
@@ -724,7 +724,7 @@
          {
             "date" : "Nov",
             "issue" : "137",
-            "status" : "MISSING"
+            "status" : "OWNED"
          },
          {
             "date" : "Dec",
@@ -766,7 +766,7 @@
          {
             "date" : "Jul",
             "issue" : "145",
-            "status" : "MISSING"
+            "status" : "OWNED"
          },
          {
             "date" : "Aug",
@@ -803,12 +803,12 @@
          {
             "date" : "Feb",
             "issue" : "152",
-            "status" : "MISSING"
+            "status" : "OWNED"
          },
          {
             "date" : "Mar",
             "issue" : "153",
-            "status" : "MISSING"
+            "status" : "OWNED"
          },
          {
             "date" : "Apr",
@@ -818,7 +818,7 @@
          {
             "date" : "May",
             "issue" : "155",
-            "status" : "MISSING"
+            "status" : "OWNED"
          },
          {
             "date" : "Jun",

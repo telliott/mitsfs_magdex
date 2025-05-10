@@ -1,11 +1,10 @@
 {
    "alternate" : [],
-   "box" : "5",
+   "box" : "23",
    "grid" : "ISSUES",
-   "name" : "Utopia Magazin",
-   "note": "Issues 1 and 2 are titled Utopia Sonderband, but not the same as the series of that name",
+   "name" : "Authors Choice",
    "years" : {
-      "1955" : [
+      "1989" : [
          {
             "issue" : "1",
             "status" : "MISSING",
@@ -20,7 +19,9 @@
             "issue" : "3",
             "status" : "MISSING",
             "volume" : ""
-         },
+         }
+      ],
+      "1990" : [
          {
             "issue" : "4",
             "status" : "MISSING",
@@ -35,12 +36,10 @@
             "issue" : "6",
             "status" : "MISSING",
             "volume" : ""
-         }
-      ],
-      "1956" : [
+         },
          {
             "issue" : "7",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
@@ -50,22 +49,22 @@
          },
          {
             "issue" : "9",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "10",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "11",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "12",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
@@ -82,7 +81,9 @@
             "issue" : "15",
             "status" : "MISSING",
             "volume" : ""
-         },
+         }
+      ],
+      "1991" : [
          {
             "issue" : "16",
             "status" : "MISSING",
@@ -97,9 +98,7 @@
             "issue" : "18",
             "status" : "MISSING",
             "volume" : ""
-         }
-      ],
-      "1958" : [
+         },
          {
             "issue" : "19",
             "status" : "MISSING",
@@ -117,7 +116,7 @@
          },
          {
             "issue" : "22",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
@@ -129,16 +128,31 @@
             "issue" : "24",
             "status" : "MISSING",
             "volume" : ""
-         }
-      ],
-      "1959" : [
+         },
          {
             "issue" : "25",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "26",
+            "status" : "MISSING",
+            "volume" : ""
+         },
+         {
+            "issue" : "27",
+            "status" : "MISSING",
+            "volume" : ""
+         }
+      ],
+      "1992" : [
+         {
+            "issue" : "28",
+            "status" : "OWNED",
+            "volume" : ""
+         },
+         {
+            "issue" : "29 ",
             "status" : "OWNED",
             "volume" : ""
          }

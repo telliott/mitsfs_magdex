@@ -1,10 +1,10 @@
 {
-   "alternate" : ["Luna-Weltall"],
-   "box" : "14",
+   "alternate" : [],
+   "box" : "18",
    "grid" : "ISSUES",
-   "name" : "Luna Utopia",
+   "name" : "Commander Scott",
    "years" : {
-      "1956" : [
+      "1975" : [
          {
             "issue" : "1",
             "status" : "MISSING",
@@ -22,7 +22,7 @@
          },
          {
             "issue" : "4",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
@@ -32,7 +32,7 @@
          },
          {
             "issue" : "6",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
@@ -49,12 +49,10 @@
             "issue" : "9",
             "status" : "MISSING",
             "volume" : ""
-         }
-      ],
-      "1957" : [
+         },
          {
             "issue" : "10",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
@@ -64,7 +62,7 @@
          },
          {
             "issue" : "12",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
@@ -79,32 +77,32 @@
          },
          {
             "issue" : "15",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "16",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "17",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "18",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "19",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
             "issue" : "20",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
@@ -113,10 +111,10 @@
             "volume" : ""
          }
       ],
-      "1958" : [
+      "1976" : [
          {
             "issue" : "22",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
          },
          {
@@ -136,7 +134,7 @@
          },
          {
             "issue" : "26",
-            "status" : "OWNED",
+            "status" : "MISSING",
             "volume" : ""
          },
          {
@@ -156,7 +154,7 @@
          },
          {
             "issue" : "30",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
          },
          {
@@ -171,14 +169,12 @@
          },
          {
             "issue" : "33",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
-         }
-      ],
-      "1959" : [
+         },
          {
             "issue" : "34",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
          },
          {
@@ -193,109 +189,32 @@
          },
          {
             "issue" : "37",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
          },
          {
             "issue" : "38",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
          },
          {
             "issue" : "39",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
          },
          {
             "issue" : "40",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
          },
          {
             "issue" : "41",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
          },
          {
             "issue" : "42",
             "status" : "OWNED",
-            "volume" : ""
-         },
-         {
-            "issue" : "43",
-            "status" : "OWNED",
-            "volume" : ""
-         },
-         {
-            "issue" : "44",
-            "status" : "OWNED",
-            "volume" : ""
-         },
-         {
-            "issue" : "45",
-            "status" : "MISSING",
-            "volume" : ""
-         }
-      ],
-      "1960" : [
-         {
-            "issue" : "46",
-            "status" : "MISSING",
-            "volume" : ""
-         },
-         {
-            "issue" : "47",
-            "status" : "OWNED",
-            "volume" : ""
-         },
-         {
-            "issue" : "48",
-            "status" : "OWNED",
-            "volume" : ""
-         },
-         {
-            "issue" : "49",
-            "status" : "OWNED",
-            "volume" : ""
-         },
-         {
-            "issue" : "50",
-            "status" : "MISSING",
-            "volume" : ""
-         },
-         {
-            "issue" : "51",
-            "status" : "MISSING",
-            "volume" : ""
-         },
-         {
-            "issue" : "52",
-            "status" : "MISSING",
-            "volume" : ""
-         },
-         {
-            "issue" : "53",
-            "status" : "MISSING",
-            "volume" : ""
-         },
-         {
-            "issue" : "54",
-            "status" : "MISSING",
-            "volume" : ""
-         },
-         {
-            "issue" : "55",
-            "status" : "MISSING",
-            "volume" : ""
-         },
-         {
-            "issue" : "56",
-            "status" : "MISSING",
-            "volume" : ""
-         },
-         {
-            "issue" : "57",
-            "status" : "MISSING",
             "volume" : ""
          }
       ]
