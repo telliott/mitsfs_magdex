@@ -40,4 +40,4 @@ if "mag" in params:
 else:
 	print (frontpage.createFrontpage(magazine_root, magazine_url))
 
-print ("</html>")
+print ("</body>\n</html>")
