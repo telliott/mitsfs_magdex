@@ -7,37 +7,38 @@
 					"Summer": "Jul-Aug-Sep",
 					"Fall": "Oct-Nov"
 	},
-   "years" : {
+	"note": "Old loose issues are in annex box 24"),
+    "years" : {
       "1930" : [
          {
             "date" : "Jun",
             "volume": "2",
             "issue" : "1",
-            "status" : "MISSING"
+            "status" : "OWNED"
          },
          {
             "date" : "Jul",
             "volume": "2",
             "issue" : "2",
-            "status" : "MISSING"
+            "status" : "OWNED"
          },
          {
             "date" : "Aug",
             "volume": "2",
             "issue" : "3",
-            "status" : "MISSING"
+            "status" : "OWNED"
          },
          {
             "date" : "Sep",
             "volume": "2",
             "issue" : "4",
-            "status" : "MISSING"
+            "status" : "OWNED"
          },
          {
             "date" : "Oct",
             "volume": "2",
             "issue" : "5",
-            "status" : "MISSING"
+            "status" : "OWNED"
          },
          {
             "date" : "Nov",
@@ -87,7 +88,7 @@
             "date" : "Jun",
             "volume": "3",
             "issue" : "1",
-            "status" : "MISSING"
+            "status" : "OWNED"
          },
          {
             "date" : "Jul",
@@ -105,7 +106,7 @@
             "date" : "Sep",
             "volume": "3",
             "issue" : "4",
-            "status" : "MISSING"
+            "status" : "OWNED"
          },
          {
             "date" : "Oct",
@@ -253,7 +254,7 @@
             "date" : "Nov",
             "volume": "5",
             "issue" : "4",
-            "status" : "MISSING"
+            "status" : "OWNED"
          },
          {
             "date" : "Dec",

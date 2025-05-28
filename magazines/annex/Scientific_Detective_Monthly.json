@@ -1,6 +1,6 @@
 {
    "alternate" : [],
-   "box" : "bondagecomm",
+   "box" : "24/bondagecomm",
    "grid" : "MONTH",
    "name" : "Scientific Detective Monthly",
    "years" : {
@@ -16,13 +16,13 @@
          {
             "date" : "Jan",
             "issue" : "2",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
          },
          {
             "date" : "Feb",
             "issue" : "3",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
          },
          {
@@ -34,13 +34,13 @@
          {
             "date" : "Apr",
             "issue" : "5",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
          },
          {
             "date" : "May",
             "issue" : "6",
-            "status" : "MISSING",
+            "status" : "OWNED",
             "volume" : ""
          }
       ]

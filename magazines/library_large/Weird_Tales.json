@@ -8,12 +8,13 @@
 					"Fall": "Jul-Aug-Sep",
 					"Winter": "Oct-Nov-Dec"
 	},
+	"note": "old loose issues are in annex box 25",
    "years" : {
       "1923" : [
          {
             "date" : "Mar",
             "issue" : "1",
-            "status" : "MISSING"
+            "status" : "OWNED"
          },
          {
             "date" : "Apr",
@@ -142,7 +143,7 @@
          {
             "date" : "Nov",
             "issue" : "26",
-            "status" : "MISSING"
+            "status" : "OWNED"
          },
          {
             "date" : "Dec",
@@ -159,7 +160,7 @@
          {
             "date" : "Feb",
             "issue" : "29",
-            "status" : "MISSING"
+            "status" : "OWNED"
          },
          {
             "date" : "Mar",
@@ -174,7 +175,7 @@
          {
             "date" : "May",
             "issue" : "32",
-            "status" : "MISSING"
+            "status" : "OWNED"
          },
          {
             "date" : "Jun",
@@ -184,7 +185,7 @@
          {
             "date" : "Jul",
             "issue" : "34",
-            "status" : "MISSING"
+            "status" : "OWNED"
          },
          {
             "date" : "Aug",
@@ -194,7 +195,7 @@
          {
             "date" : "Sep",
             "issue" : "36",
-            "status" : "MISSING"
+            "status" : "OWNED"
          },
          {
             "date" : "Oct",
@@ -204,7 +205,7 @@
          {
             "date" : "Nov",
             "issue" : "38",
-            "status" : "MISSING"
+            "status" : "OWNED"
          },
          {
             "date" : "Dec",
