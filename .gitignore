@@ -1,3 +1,16 @@
+#pages created by generate_sitev
+annex/
+annex_foreign/
+index.html
+library_front/
+library_large/
+library_small/
+library_xl/
+
+
+# Mac
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
