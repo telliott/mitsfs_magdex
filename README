@@ -1,0 +1,7 @@
+Magdex is stored in git at telliott/mitsfs_magdex
+
+To make changes to the magdex, alter the json in /magazines
+
+Pull the repo.
+
+run "python3 generate_site.py"

@@ -34,9 +34,9 @@ class status(Enum):
 	BOUND = "BOUND"
 	MISSING = "MISSING"
 
-COLORS = {status.MISSING.value: "red", \
-			status.OWNED.value: "black", \
-			status.BOUND.value: "green"}
+STYLE = {status.MISSING.value: "missing", \
+			status.OWNED.value: "owned", \
+			status.BOUND.value: "bound"}
 
 YEARS = mag.YEARS.value
 
@@ -82,7 +82,7 @@ def toTable(data):
 	if  mag.BOX.value in data and data[mag.BOX.value]:
 		q += "<p>(Annex Box %s)</p>\n" % data[mag.BOX.value]
 	
-	q += "<table border=1>\n"
+	q += "<table class=\"magazine\">\n"
 	if data[mag.GRID.value] == calTypes.MONTH.value:
 		q+= monthToTable(data)
 	elif data[mag.GRID.value] == calTypes.ISSUES.value:
@@ -131,12 +131,15 @@ Takes in the largest row size in the set in case it needs to pad the row out
 def outputRow(issues, biggest_row):
 	q = ""
 	for issue in issues:
-		q += "<td class=\"issue\" style=\"color:%s\">%s</td>" \
-						% (COLORS[issue[iss.STATUS.value]], output_cell(issue))	
+		q += "<td class=\"%s\">%s</td>" \
+						% (STYLE[issue[iss.STATUS.value]], output_cell(issue))	
 	
 	#padding in case this row doesn't have as many issues as other rows
 	if len(issues) < biggest_row:
-		q += "<td colspan=%s>&nbsp;</td>" % (biggest_row - len(issues))	
+		q += "<td"
+		if biggest_row - len(issues) > 1:
+			q+= " colspan=%s" % (biggest_row - len(issues))	
+		q+= "></td>"
 	return q
 
 """
@@ -255,8 +258,10 @@ def processMonths(issues, seasons):
 			q += "<td>Bad month specified: %s</td>" % issue_months[0]
 			return q
 		
-		if month_offset > 0:
+		if month_offset > 1:
 			q += "<td colspan=%s></td>" % month_offset 
+		elif month_offset > 0:
+			q += "<td></td>"
 
 		#now span the issue to the months specified	and output a cell that big	
 		issue_columns = 0
@@ -266,12 +271,19 @@ def processMonths(issues, seasons):
 				return q
 			issue_columns += 1
 			current_month_position += 1;		
-		q += "<td style=\"color:%s\" colspan=%s>%s</td>" % \
-				(COLORS[issue[iss.STATUS.value]], issue_columns, output_cell(issue))
+		
+		colspan = ""
+		if issue_columns > 1:
+			colspan = " colspan=%s" % issue_columns
+		q += "<td class=\"%s\"%s>%s</td>" % \
+				(STYLE[issue[iss.STATUS.value]], colspan, output_cell(issue))
 	
 	#If we run out of issues, and there's more calendar, pad the rest
 	if current_month_position < len(MONTHS):
-		q += "<td colspan=%s>&nbsp;</td>" % (len(MONTHS) - current_month_position)
+		q += "<td"
+		if len(MONTHS) - current_month_position > 1:
+			q+= " colspan=%s" % (len(MONTHS) - current_month_position)	
+		q+= "></td>"
 
 	return q
 
@@ -280,15 +292,18 @@ def processMonths(issues, seasons):
 Outputs a footer showing the color legend
 """
 def footer():
-	q = '<p><span style="color:red">Missing</span>&nbsp;&nbsp;&nbsp;&nbsp;' + \
-		'Owned&nbsp;&nbsp;&nbsp;&nbsp;' + \
-		'<span style="color:green">Bound</span></p>\n'
+	q = '<p><span class="' + STYLE[status.MISSING.value] + \
+		'">Missing</span>&nbsp;&nbsp;&nbsp;&nbsp;' + \
+		'<span class="' + STYLE[status.OWNED.value] + \
+		'">Owned</span>&nbsp;&nbsp;&nbsp;&nbsp;' + \
+		'<span class="' + STYLE[status.BOUND.value] + \
+		'">Bound</span></p>\n'
 	return q
 """
 Just for debugging
 """
 def notImplementedToTable(schedule):
-	q = "<table>\n"
+	q = "<table class=\"magazine\">\n"
 	q += "<tr><td>" + schedule + " form not implemented</tr></td>\n"
 	q += "</table>\n"
 	return q

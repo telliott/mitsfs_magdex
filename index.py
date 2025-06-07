@@ -2,8 +2,9 @@
 import os
 import urllib.parse
 import json
-from magdex import magazine
-from magdex import frontpage
+from pagegen import magazine
+from pagegen import frontpage
+from pagegen import wrappers
 
 # comment this out for the actual site
 import cgitb
@@ -17,18 +18,13 @@ top_url = os.environ["REQUEST_URI"].split('?')[0]
 magazine_url = top_url + "?mag=[SECTION]/[MAG]"
 
 # Path to root folder where magazine folders are		
-magazine_root = os.environ["CONTEXT_DOCUMENT_ROOT"] + "/mitsfs_magdex/magazines/"
+magazine_root = os.environ["CONTEXT_DOCUMENT_ROOT"] + "/magdex/magazines/"
 
 #query parameters
 params = urllib.parse.parse_qs(os.environ["QUERY_STRING"])
 
 
-print ("Content-type: text/html\r\n\r\n")
-print ("<!DOCTYPE html>\n")
-print (('<html>\n<head>'
-  		'<link rel="stylesheet" href="http://mitsfs.mit.edu/static/css/main.bdbe7b61a7bbc1d899d2d4c72c413f96.css">'
-  		'<style>td {padding: 15px;} th {padding: 15px;}</style>'
-		'</head>\n<body>'))
+print (wrappers.head())
 
 if "mag" in params:
 
@@ -40,4 +36,4 @@ if "mag" in params:
 else:
 	print (frontpage.createFrontpage(magazine_root, magazine_url))
 
-print ("</body>\n</html>")
+print (wrappers.foot())

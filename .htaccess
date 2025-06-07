@@ -1,0 +1,4 @@
+RedirectMatch 301 .*\.py$ /magdex
+RedirectMatch 301 .*/pagegen/.*$ /magdex
+
+fddfsdffdssdfdfs
